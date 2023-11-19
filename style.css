@@ -51,6 +51,15 @@ header ul li a {
     height: 500px;
 }
 
+section#data {
+    min-height: 25vh;
+}
+
+.videoBox {
+    width: 350px;
+    height: 197px;
+}
+
 .content {
     position: relative;
     width: 100%;

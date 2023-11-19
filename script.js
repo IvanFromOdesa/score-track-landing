@@ -1,3 +1,3 @@
-const scrollToE = (target) => {
+const scrollTo = (target) => {
     document.getElementById(target).scrollIntoView();
 }
